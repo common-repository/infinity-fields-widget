@@ -1,0 +1,44 @@
+# Copyright (C) 2015 Infinity Fields Widget
+# This file is distributed under the same license as the WordPress package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Infinity Fields Widget 1.0\n"
+"Report-Msgid-Bugs-To: https://github.com/Bonus3/Infinity-Fields-Widget\n"
+"POT-Creation-Date: 2015-10-12 18:32-0300\n"
+"PO-Revision-Date: 2015-10-12 18:32-0300\n"
+"Last-Translator: \n"
+"Language-Team: pr_BR\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: infinity-fields-widget.php:49
+msgid "Widget to custom infinity fields"
+msgstr "Widget para adiconar inúmeros campos customizados"
+
+#: infinity-fields-widget.php:62
+msgid "Title:"
+msgstr "Título:"
+
+#: infinity-fields-widget.php:49
+msgid "Label"
+msgstr "Rótudo"
+
+#: infinity-fields-widget.php:122 infinity-fields-widget.php:125
+#: infinity-fields-widget.php:129 infinity-fields-widget.php:155
+#: infinity-fields-widget.php:159
+msgid "Value"
+msgstr "Valor"
+
+#: infinity-fields-widget.php:167
+msgid "Add"
+msgstr "Adicionar"
+
+#~ msgid "Label <span class='ifw-label'>%d</span>:"
+#~ msgstr "Rótulo <span class='ifw-label'>%d</span>:"
+
+#~ msgid "Value <span class='ifw-label'>%d</span>:"
+#~ msgstr "Valor <span class='ifw-label'>%d</span>:"
